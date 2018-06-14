@@ -1,0 +1,4 @@
+C:\Users\Owner\codefellows\401\Lab06_Interfaces\Lab06_Interfaces\Lab06_Interfaces\obj\Debug\netcoreapp2.1\Lab06_Interfaces.csprojAssemblyReference.cache
+C:\Users\Owner\codefellows\401\Lab06_Interfaces\Lab06_Interfaces\Lab06_Interfaces\obj\Debug\netcoreapp2.1\Lab06_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Owner\codefellows\401\Lab06_Interfaces\Lab06_Interfaces\Lab06_Interfaces\obj\Debug\netcoreapp2.1\Lab06_Interfaces.AssemblyInfoInputs.cache
+C:\Users\Owner\codefellows\401\Lab06_Interfaces\Lab06_Interfaces\Lab06_Interfaces\obj\Debug\netcoreapp2.1\Lab06_Interfaces.AssemblyInfo.cs
